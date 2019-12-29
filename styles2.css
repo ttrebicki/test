@@ -1,0 +1,14 @@
+nav {
+  position: fixed;
+  top: 0px;
+  background-color: white !important;
+  color: black !important;
+  z-index: 9999 !important;
+  display: flex !important;
+  flex-direction: row !important;
+  width: 100vw !important;
+}
+
+nav > h2 {
+  margin-right: 4vw;
+}
